@@ -49,7 +49,7 @@ g++ -Wno-deprecated App.cpp ./libs/func/tools.cpp ./libs/src/Course.cpp ./libs/s
 
 ## I/O Example
 
-1. test-case 01
+1. Test-case 01
 **input:**
 ```bash
 course-add#12S1101#Pemrograman Prosedural#3#C
@@ -71,7 +71,7 @@ enrollment-add#12S1101#21S18026#2022/2023#EVEN
 
 ```
 
-2. test-case 02
+2. Test-case 02
 **input:**
 ```bash
 course-add#12S1101#Pemrograman Prosedural#3#C
